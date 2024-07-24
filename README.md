@@ -1,2 +1,12 @@
-# link-in-bio
-My bio website with links to all my socials
+# My profile site
+
+A site to see my social media handles
+
+## Technologies
+
+- **HTML**
+- **CSS**
+- **Javascript**
+- **Vanta.JS** (for animation)
+
+![Site Look](images/profile-view.png)
